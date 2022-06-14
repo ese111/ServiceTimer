@@ -8,7 +8,7 @@
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
-        android:layout_height="100dp">
+        android:layout_height="50dp">
 
         <TextView
             android:id="@+id/tv_lab_time"
@@ -16,7 +16,7 @@
             android:layout_height="match_parent"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintBottom_toBottomOf="parent"
-            style="@style/TextAppearance.MaterialComponents.Headline3"
+            style="@style/TextAppearance.MaterialComponents.Headline5"
             android:gravity="center" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
